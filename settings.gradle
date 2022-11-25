@@ -1,0 +1,5 @@
+rootProject.name = 'calendar-clone-project'
+include 'calendar-api'
+include 'calendar-batch'
+include 'calendar-core'
+
